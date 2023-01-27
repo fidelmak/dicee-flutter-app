@@ -27,12 +27,10 @@ class _DicePageState extends State<DicePage> {
     int leftSided = 1;
     var righSided = 2;
 
-    void click() {
-      setState() {
-        int l = Random().nextInt(leftSided) + 1;
+    set() {
+      int l = Random().nextInt(leftSided) + 1;
 
-        print('man');
-      }
+      return l;
     }
 
     ;
@@ -42,7 +40,7 @@ class _DicePageState extends State<DicePage> {
           Expanded(
             child: TextButton(
               onPressed: () {
-                click();
+                set();
               },
               child: Image.asset('images/dice$leftSided.png'),
             ),
