@@ -21,6 +21,6 @@
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+![slide](https://user-images.githubusercontent.com/64453973/215254380-706b77fc-34a3-41eb-b002-bd5c7b6ba7c7.jpg)
